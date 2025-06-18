@@ -28,6 +28,9 @@
 
 ### 📌 Featured Projects
 
+- **🏥 [ICU Mortality and Length of Stay Prediction using EHR Data]**([https://github.com/your-username/icu-mortality-los-prediction](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
+  A machine learning project using MIMIC-IV EHR data to predict ICU mortality and short length of stay based on the first 24 hours of clinical data.  
+
 - **🔍 Crime Data Analysis (LAPD)**  
   Conducted EDA on LA crime data (2020–present) using Python (Pandas, NumPy, Matplotlib) to uncover trends across location and time.
 
