@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Sridipta 👋</h2>
 
 <p align="center">
-  <b>Graduate Student | Data Analytics Engineer | Former IBM Developer</b><br>
+  <b>Graduate Student | MS in Data Analytics Engineering | Former IBM Application Developer</b><br>
   📍 Boston, MA | 🌐 <a href="https://www.linkedin.com/in/sridipta-roy">LinkedIn</a>
 </p>
 
