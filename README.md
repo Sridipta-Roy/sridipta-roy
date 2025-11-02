@@ -28,14 +28,21 @@
 
 ### 📌 Featured Projects
 
-- **🏥 [ICU Mortality and Length of Stay Prediction using EHR Data]**([https://github.com/your-username/icu-mortality-los-prediction](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
+- **🏥 ICU Mortality and Length of Stay Prediction using EHR Data**([Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
   A machine learning project using MIMIC-IV EHR data to predict ICU mortality and short length of stay based on the first 24 hours of clinical data.  
 
-- **🔍 Crime Data Analysis (LAPD)**  
-  Conducted EDA on LA crime data (2020–present) using Python (Pandas, NumPy, Matplotlib) to uncover trends across location and time.
+- **🔍 ChestXRay Multi-Label Image Classification** ([Link](https://github.com/Sridipta-Roy/Chest-X-Ray-Image-Classification-using-Deep-Learning))
+  This project implements multiple deep learning architectures for automated detection of 14 different thoracic pathologies in chest X-ray images.
 
-- **🏢 Work-from-Home vs. Back-to-Office**  
-  Built interactive dashboards and graphs comparing WFH and office-based models, visualizing industry-wise impact using Datawrapper and Flourish.
+- **🏦 Bank Customer Churn Prediction** ([Link](https://github.com/Sridipta-Roy/Bank-Customer-Churn-Prediction))
+  Executed a comprehensive classification project by training and evaluating 15 machine learning models to predict the likelihood of a customer leaving (churning), based on their demographic and account-related attributes.
+
+- **📊 Data Visualization projects**
+  - **Tableau Scoring Dashboard** ([Link](https://public.tableau.com/app/profile/sridipta.roy/viz/Project2_Methodology/ScoringDashboard))
+          Developed an interactive Tableau dashboard that analyzed regional data across multiple Boston zip codes, visualizing socio-economic and demographic patterns.
+  - **Work-from-Home vs. Back-to-Office** ([Link](https://sites.google.com/view/wfhresearch/home))
+          Built interactive dashboards and graphs comparing WFH and office-based models, visualizing industry-wise impact using Datawrapper and Flourish.
+
 
 ---
 
