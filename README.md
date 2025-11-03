@@ -19,32 +19,48 @@
 
 ### 🛠️ Technical Skills
 
-**Languages:** Python, SQL, C#, JavaScript, CSS  
-**Visualization:** Power BI, Matplotlib, Seaborn, R, Datawrapper, Flourish  
-**Cloud & Tools:** Azure Data Factory, Azure SQL Database, Azure Storage, Power Platform, Google Analytics  
-**Concepts:** Data Pipelines, ETL, Dashboarding, Automation, Exploratory Data Analysis
+- **Programming Languages:** Python, SQL, C#, JavaScript, CSS  
+- **Data Science & Machine Learning:**
+  - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
+  - **ML Concepts:** Supervised Learning (Regression, Classification, Decision Trees), Unsupervised Learning (Clustering), Neural Networks and Deep Learning, Text Classification, Embeddings
+  - **Generative AI:** Large Language Models (LLMs), Transformers, RAG (including Graph RAG), Agentic AI using LangGraph  
+- **Data Visualization:** Python libraries (Matplotlib, Seaborn), Visualization Apps like Datawrapper and Flourish, Tableau, Power BI  
+- **Cloud & Data Management:** Azure Data Factory, Azure SQL Database, Azure Storage, SharePoint, Power Platform, Neo4j  
+- **Concepts:** Data Pipelines, ETL, Dashboarding, Automation, Exploratory Data Analysis, Feature Engineering, MLOps
 
 ---
 
 ### 📌 Featured Projects
+#### 🧠 Predictive Modeling
 
-- **🏥 ICU Mortality and Length of Stay Prediction using EHR Data**([Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
-  A machine learning project using MIMIC-IV EHR data to predict ICU mortality and short length of stay based on the first 24 hours of clinical data.  
-
-- **🔍 ChestXRay Multi-Label Image Classification** ([Link](https://github.com/Sridipta-Roy/Chest-X-Ray-Image-Classification-using-Deep-Learning))
-  This project implements multiple deep learning architectures for automated detection of 14 different thoracic pathologies in chest X-ray images.
-
-- **🏦 Bank Customer Churn Prediction** ([Link](https://github.com/Sridipta-Roy/Bank-Customer-Churn-Prediction))
-  Executed a comprehensive classification project by training and evaluating 15 machine learning models to predict the likelihood of a customer leaving (churning), based on their demographic and account-related attributes.
-
-- **📊 Data Visualization projects**
-  - **Tableau Scoring Dashboard** ([Link](https://public.tableau.com/app/profile/sridipta.roy/viz/Project2_Methodology/ScoringDashboard))
-          Developed an interactive Tableau dashboard that analyzed regional data across multiple Boston zip codes, visualizing socio-economic and demographic patterns.
-  - **Work-from-Home vs. Back-to-Office** ([Link](https://sites.google.com/view/wfhresearch/home))
-          Built interactive dashboards and graphs comparing WFH and office-based models, visualizing industry-wise impact using Datawrapper and Flourish.
-
+- **🏥 ICU Mortality and Length of Stay Prediction using EHR Data** (🔗[Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
+    - Developed ML models to predict ICU mortality and short stays using early clinical data from the MIMIC-IV database.  
+    - *Tech:* Python, Pandas, Scikit-learn, XGBoost, MLP Regressor, Hyperparameter Tuning, Data Imputation, Feature Scaling, Classification + Regression
 
 ---
+- **🩻 ChestXRay Multi-Label Image Classification** (🔗[Link](https://github.com/Sridipta-Roy/Chest-X-Ray-Image-Classification-using-Deep-Learning))  
+    - Designed an attention-based DenseNet + EfficientNet fusion model with Focal Loss and Monte Carlo Dropout, achieving ROC-AUC 0.82 and improving rare disease accuracy (e.g., Hernia AUC ↑ 0.53 → 0.94).  
+    - *Tech:* Python, TensorFlow/Keras, Image Augmentation, DenseNet, EfficientNet, Attention Fusion, Focal Loss, Monte Carlo Dropout, Uncertainty estimation
+
+---
+- **⚡EEG Time Series Classification for Seizure Detection** (🔗[Link](https://github.com/Sridipta-Roy/EEG-Classification))  
+    - Developed ML pipeline for automated epileptic seizure detection by training and evaluating various traditional ML models (Logistic Regression, Random Forest, XGBoost, LightGBM, SVM) and deep learning models (CNN, LSTM, Attention-LSTM) on EEG time series data.  
+    - *Tech:* Python, Scikit-learn, TensorFlow/Keras, Signal Processing (Butterworth Filtering, FFT, Wavelets), Feature Engineering (RQA, Entropy Measures), Cross-Validation
+---
+- **🏦 Bank Customer Churn Prediction** (🔗[Link](https://github.com/Sridipta-Roy/Bank-Customer-Churn-Prediction))  
+    - Developed a supervised ML pipeline to predict customer churn using demographic and transaction data. Applied SMOTE for class balancing and GridSearchCV for model tuning to improve prediction reliability.    
+    - *Tech:* Python, Pandas, Scikit-learn, Logistic Regression, Random Forest, XGBoost, CatBoost, SMOTE, GridSearchCV, Feature Importance, Model Evaluation
+---
+#### 📊 Visualization & Storytelling
+- **📈 Tableau Scoring Dashboard** (🔗[Link](https://public.tableau.com/app/profile/sridipta.roy/viz/Project2_Methodology/ScoringDashboard))  
+    - Developed an interactive Tableau dashboard that analyzed regional data across multiple Boston zip codes, visualizing socio-economic and demographic patterns.  
+    - *Tech:* Tableau, Excel, Data Cleaning (Python), Data Blending, Geo-Mapping, Choropleth Visualization
+---
+- **💼 Work-from-Home vs. Back-to-Office** (🔗[Link](https://sites.google.com/view/wfhresearch/home))  
+    - Built interactive dashboards and graphs comparing WFH and office-based models, visualizing industry-wise impact using Datawrapper and Flourish.  
+    - *Tech:* Datawrapper, Flourish, Power BI, Data Aggregation (Python), Trend Analysis, Visual Storytelling
+---
+
 
 ### 📫 Let’s Connect
 
