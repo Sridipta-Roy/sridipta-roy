@@ -34,13 +34,13 @@
 ### 📌 Featured Projects
 #### 🤖 Generative AI & LLM Systems
 
-- **🧬 Protein Function Prediction via Multimodal LLM** (📗[Link](https://github.com/Sridipta-Roy/protein-function-prediction))  
+- **🧬 Protein Function Prediction via Multimodal LLM** (📗[Link](https://github.com/Sridipta-Roy/Protein-Function-Prediction/blob/main/README.md))  
     - Designed a research-focused multimodal architecture integrating frozen ESM-2 embeddings with LoRA-tuned Phi-2 LLM through trainable MLP projection for sequence-to-function generation.  
     - Trained using multi-task objective (LM loss, alignment loss, contrastive loss) on 10k Swiss-Prot proteins, achieving strong semantic similarity (high BERTScore).  
     - *Tech:* Python, PyTorch, Transformers, ESM-2, Phi-2, LoRA, Multi-task Learning, Protein Embeddings
 
 ---
-- **💼 FinSights: LLM-Powered RAG Financial Intelligence System** (📗[Link](https://github.com/Finsights-MLOps/FinSights))  
+- **💼 FinSights: LLM-Powered RAG Financial Intelligence System** (📗[Link](https://github.com/Finsights-MLOps/FinSights/blob/main/README.md))  
     - Built end-to-end MLOps pipeline for financial QA over SEC 10-K filings with Airflow ingestion, KPI extraction, hybrid retrieval, and MLflow-tracked experimentation.  
     - Implemented CI/CD with GitHub Actions, containerized services, and deployed FastAPI + Streamlit on AWS ECS Fargate with optimized S3 vector storage.  
     - *Tech:* Python, LangChain, AWS Bedrock, Airflow, MLflow, Docker, FastAPI, Streamlit, AWS ECS, S3, GitHub Actions
@@ -48,21 +48,21 @@
 ---
 #### 🧠 Predictive Modeling
 
-- **🏥 ICU Mortality and Length of Stay Prediction using EHR Data** (🔗[Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
+- **🏥 ICU Mortality and Length of Stay Prediction using EHR Data** (🔗[Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis/blob/main/README.md))  
     - Developed ML models to predict ICU mortality and short stays using early clinical data from the MIMIC-IV database.  
     - *Tech:* Python, Pandas, Scikit-learn, XGBoost, MLP Regressor, Hyperparameter Tuning, Data Imputation, Feature Scaling, Classification + Regression
 
 ---
-- **🩻 ChestXRay Multi-Label Image Classification** (🔗[Link](https://github.com/Sridipta-Roy/Chest-X-Ray-Image-Classification-using-Deep-Learning))  
+- **🩻 ChestXRay Multi-Label Image Classification** (🔗[Link](https://github.com/Sridipta-Roy/Chest-X-Ray-Image-Classification-using-Deep-Learning/blob/main/README.md))  
     - Designed an attention-based DenseNet + EfficientNet fusion model with Focal Loss and Monte Carlo Dropout, achieving ROC-AUC 0.82 and improving rare disease accuracy (e.g., Hernia AUC ↑ 0.53 → 0.94).  
     - *Tech:* Python, TensorFlow/Keras, Image Augmentation, DenseNet, EfficientNet, Attention Fusion, Focal Loss, Monte Carlo Dropout, Uncertainty estimation
 
 ---
-- **⚡EEG Time Series Classification for Seizure Detection** (🔗[Link](https://github.com/Sridipta-Roy/EEG-Classification))  
+- **⚡EEG Time Series Classification for Seizure Detection** (🔗[Link](https://github.com/Sridipta-Roy/EEG-Classification/blob/main/README.md))  
     - Developed ML pipeline for automated epileptic seizure detection by training and evaluating various traditional ML models (Logistic Regression, Random Forest, XGBoost, LightGBM, SVM) and deep learning models (CNN, LSTM, Attention-LSTM) on EEG time series data.  
     - *Tech:* Python, Scikit-learn, TensorFlow/Keras, Signal Processing (Butterworth Filtering, FFT, Wavelets), Feature Engineering (RQA, Entropy Measures), Cross-Validation
 ---
-- **🏦 Bank Customer Churn Prediction** (🔗[Link](https://github.com/Sridipta-Roy/Bank-Customer-Churn-Prediction))  
+- **🏦 Bank Customer Churn Prediction** (🔗[Link](https://github.com/Sridipta-Roy/Bank-Customer-Churn-Prediction/blob/main/README.md))  
     - Developed a supervised ML pipeline to predict customer churn using demographic and transaction data. Applied SMOTE for class balancing and GridSearchCV for model tuning to improve prediction reliability.    
     - *Tech:* Python, Pandas, Scikit-learn, Logistic Regression, Random Forest, XGBoost, CatBoost, SMOTE, GridSearchCV, Feature Importance, Model Evaluation
 ---
