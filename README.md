@@ -23,9 +23,10 @@
 - **Data Science & Machine Learning:**
   - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
   - **ML Concepts:** Supervised Learning (Regression, Classification, Decision Trees), Unsupervised Learning (Clustering), Neural Networks and Deep Learning, Text Classification, Embeddings
-  - **Generative AI:** Large Language Models (LLMs), Transformers, RAG (including Graph RAG), Agentic AI using LangGraph  
+  - **Generative AI:** Large Language Models (LLMs), Transformers, RAG (including Graph RAG), Agentic AI using LangGraph
+  - **MLOps & Deployment:** FastAPI, Streamlit, MLflow, Airflow, GitHub Actions, CI/CD, Dockerization, Cloud Deployment
 - **Data Visualization:** Python libraries (Matplotlib, Seaborn), Visualization Apps like Datawrapper and Flourish, Tableau, Power BI  
-- **Cloud & Data Management:** Azure Data Factory, Azure SQL Database, Azure Storage, SharePoint, Power Platform, Neo4j  
+- **Cloud & Data Management:** Azure Services (SQL Database, Data Factory, Azure Storage); AWS (S3, Lambda, Bedrock, ECS); SharePoint; Power Platform; Neo4j  
 - **Concepts:** Data Pipelines, ETL, Dashboarding, Automation, Exploratory Data Analysis, Feature Engineering, MLOps
 
 ---
