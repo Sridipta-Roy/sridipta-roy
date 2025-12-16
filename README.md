@@ -31,6 +31,20 @@
 ---
 
 ### 📌 Featured Projects
+#### 🤖 Generative AI & LLM Systems
+
+- **🧬 Protein Function Prediction via Multimodal LLM** (📗[Link](https://github.com/Sridipta-Roy/protein-function-prediction))  
+    - Designed a research-focused multimodal architecture integrating frozen ESM-2 embeddings with LoRA-tuned Phi-2 LLM through trainable MLP projection for sequence-to-function generation.  
+    - Trained using multi-task objective (LM loss, alignment loss, contrastive loss) on 10k Swiss-Prot proteins, achieving strong semantic similarity (high BERTScore).  
+    - *Tech:* Python, PyTorch, Transformers, ESM-2, Phi-2, LoRA, Multi-task Learning, Protein Embeddings
+
+---
+- **💼 FinSights: LLM-Powered RAG Financial Intelligence System** (📗[Link](https://github.com/Sridipta-Roy/finsights))  
+    - Built end-to-end MLOps pipeline for financial QA over SEC 10-K filings with Airflow ingestion, KPI extraction, hybrid retrieval, and MLflow-tracked experimentation.  
+    - Implemented CI/CD with GitHub Actions, containerized services, and deployed FastAPI + Streamlit on AWS ECS Fargate with optimized S3 vector storage.  
+    - *Tech:* Python, LangChain, AWS Bedrock, Airflow, MLflow, Docker, FastAPI, Streamlit, AWS ECS, S3, GitHub Actions
+
+---
 #### 🧠 Predictive Modeling
 
 - **🏥 ICU Mortality and Length of Stay Prediction using EHR Data** (🔗[Link](https://github.com/Sridipta-Roy/ICU-Mortality-and-LOS-Prediction---EHR-Data-Analysis))  
