@@ -40,7 +40,7 @@
     - *Tech:* Python, PyTorch, Transformers, ESM-2, Phi-2, LoRA, Multi-task Learning, Protein Embeddings
 
 ---
-- **💼 FinSights: LLM-Powered RAG Financial Intelligence System** (📗[Link](https://github.com/Sridipta-Roy/finsights))  
+- **💼 FinSights: LLM-Powered RAG Financial Intelligence System** (📗[Link](https://github.com/Finsights-MLOps/FinSights))  
     - Built end-to-end MLOps pipeline for financial QA over SEC 10-K filings with Airflow ingestion, KPI extraction, hybrid retrieval, and MLflow-tracked experimentation.  
     - Implemented CI/CD with GitHub Actions, containerized services, and deployed FastAPI + Streamlit on AWS ECS Fargate with optimized S3 vector storage.  
     - *Tech:* Python, LangChain, AWS Bedrock, Airflow, MLflow, Docker, FastAPI, Streamlit, AWS ECS, S3, GitHub Actions
