@@ -6,14 +6,14 @@
 </p>
 
 ---
-
 ### 👨‍🎓 About Me
 
 - 🎓 Currently pursuing MS in Data Analytics Engineering at **Northeastern University**, Boston (Expected May 2026).
-- 💼 Former **Application Developer at IBM** with 7+ years of experience in data engineering and business automation.
-- 🔁 Led enterprise-level **data migration and automation projects** using **Azure**, **Power Platform**, and **SharePoint**.
-- 📊 Passionate about **data visualization, process automation, and cloud-based data engineering**.
-- 📚 Always exploring intersections of data, visualization, and real-world decision-making.
+- 🤖 Passionate about **AI/ML Engineering**, with focus on **MLOps**, **LLM systems**, and **production-ready ML pipelines**.
+- 💼 Former **Application Developer at IBM** with 10+ years of experience bridging data engineering and business automation.
+- 🔬 Research interests in **multimodal AI**, **computational biology**, and **generative AI applications**.
+- 🛠️ Building end-to-end ML systems from research prototypes to cloud-deployed applications.
+- 📊 Experienced in **data visualization, process automation, and cloud-based data engineering**.
 
 ---
 
