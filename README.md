@@ -1,14 +1,14 @@
 <h2 align="center">Hi, I'm Sridipta 👋</h2>
 
 <p align="center">
-  <b>Graduate Student | MS in Data Analytics Engineering | Former IBM Application Developer</b><br>
+  <b>AI/ML Engineer | MS in Data Analytics Engineering | Former IBM Application Developer</b><br>
   📍 Boston, MA | 🌐 <a href="https://www.linkedin.com/in/sridipta-roy">LinkedIn</a>
 </p>
 
 ---
 ### 👨‍🎓 About Me
 
-- 🎓 Currently pursuing MS in Data Analytics Engineering at **Northeastern University**, Boston (Expected May 2026).
+- 🎓 Recently completed MS in Data Analytics Engineering at **Northeastern University**, Boston (April 2026).
 - 🤖 Passionate about **AI/ML Engineering**, with focus on **MLOps**, **LLM systems**, and **production-ready ML pipelines**.
 - 💼 Former **Application Developer at IBM** with 10+ years of experience bridging data engineering and business automation.
 - 🔬 Research interests in **multimodal AI**, **computational biology**, and **generative AI applications**.
